@@ -1,123 +1,142 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Lance Fairbairn",
+    "occupation": "Web Designer, Programer and Sales Representative",
+    "description": "Designer and Developer of Websites",
+    "image": "https://lh3.googleusercontent.com/Z5GB-0KdDwgPKGRATwf3KWKPfK0NJb362jLAP-zLtFU7g9i0DVK27e5PcgGEM9xeJJxb2xFPZKn9Wk9uOY4LFYaQz0J3CzrUtbjRb44hfNSziEPW5FdKcobt7ZFQeQ1dtx6mZQRnkdq7ftB6NLavMJM-8ShgxXn6Q9KfHfAYGC8C9jxjXlJP8g_2eLJmZ80FuzSCsQO05O-LLYxqT-nPG7BazfG7k4J1i6XBPXSc75Q0ZZRnTMbHRkNwyQ_a3Oaw6Wk3D9NkxJiIS-CfKKKaMoNL1H9E26qzlUEAqb2bDYWHqnac76JZv5sJYEHJ2nXFj5NHW4BDqz57RKRiOW7b7z2gcUyqUQr5JjZ01V2w07vTkcgWiFvXl60LwMdyV1o8kc7R8G6N3Ejvl5BSQlIyVDzNNNFvMWUOonzGB-6c7kKjR9DQx29q0lQdmrk6mP_RMIlhf5JUlnlOB3ib6DF2kvoYSCLvfb1q5kqXDEcGV73XY_CLj7D8hiMSAVc3K8Qkq34f7l8kOQWe467D2V_G2zwxp4VQIdGB3oNWMiCQR7HMOpACcI6WN4PiGlVTqfZdJYKn3K3PItQ1xrsVU__gLMYruIBJkyVTG0uGAK-DnOmr6-viILw9CPQLZG666fjzJIPgv3N5JXzAmKClx9xTneQqZniTd9JNNUuG205bkTMjaNDgAEA-fX_uUyY9yQ=w708-h943-no?authuser=0",
+    "bio": "Years of Experience of meeting businesses and individuals needs",
+    "contactmessage": "Please contact me for your next project on your list that needs to be completed and compomlishes your goals",
+    "email": "lafairb@gmail.com",
+    "phone": "1 316 207 4227", 
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "13710 E. Whitewood Cir.",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67230"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/lance.fairbairn.7",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/lafairb/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/lafairb/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Lafairb",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "To obtain a sale position with an outstanding company that desires to grow a territory
+and allow representative to thrive in it. I will apply my professionalism, sales experience, presentation
+skills to build profitable sales results, outstanding customer service and long-term relationships for this
+dynamic company.
+Authorized to work in the US for any employer
+Ready for immediate employment
+",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "Workshop": "Clever Programmer",
+        "degree": "React JavaScript 5 day Challenge",
+        "graduated": "September 2020",
+        "description": "Amazon Clone Build"
+      }
+    ],
+    {
+        "school": "Friends University",
+        "degree": "Business Science",
+        "graduated": "May 1989",
+        "description": "Business Administration with a focus on Managment and Marketing"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Century Manufacturing",
+        "title": "Sales Representative",
+        "years": "August 2017 to March 2020",
+        "description": "Manage the largest company account. Customer had just made some major changes in supplier and
+        needed someone with previous experience to manage this account.  Consulted production on design issues and coordinate
+        with distribution and shipping of goods."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Lawn John Lawn Care",
+        "title": "Owner/Operator",
+        "years": "August 2016 to August 2017",
+        "description": "Managed Personnel, oversee quality control and projects, handle customer service, set pricing structures
+        and budgets, manage operations and services, create bids, territory sales and purchasing of supplies and equipment."
+      },
+      {
+        "company": "LaFairb Corporation - dba HOODZ of Greater Wichita Metro Area",
+        "title": "President/Manager",
+        "years": "May 2010 to April 2017",
+        "description": "Launched and built new territory from scratch, hire and manage staff and technicians, oversee quality
+         control, handle customer service, set pricing structures and budgets, manage operations and services, create bids, territory sales, handle employee hiring and evaluations"
+      },
+      {
+        "company": "Noradex",
+        "title": "Area Sales Leader",
+        "years": "June 2005 to April of 2010",
+        "description": "Consulted, advised, trained and provided exterior building products to Remodeling
+        Contractors, Handyman Profession, Large Project Building Contractors and Residential
+        Living. My territory covered the Wichita Metro Area, Western Kansas and most of
+        Eastern Kansas except for the Greater Kansas City area and Topeka.
+"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "10%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "10%"
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "10%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "level": "10%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
+        "title": "Amazon Clone - yet to come",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
+        "title": "Facebook Clone with React - yet to come",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
         "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
       },
       {
-        "title": "Airbnb Clone",
+        "title": "Airbnb Clone - yet to come",
         "category": "Facebook Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
       },
       {
-        "title": "Netflix Clone",
+        "title": "Netflix Clone - yet to come",
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
@@ -127,11 +146,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text": "Yet to build - Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "Yet to build - That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
