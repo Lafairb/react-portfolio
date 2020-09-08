@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Lance Fairbairn",
+    "occupation": "Web Designer and Programer",
+    "description": "Creater and Developer of Custom Websites and Apps - for all your needs",
+    "image": "https://photos.app.goo.gl/HKcSedTy5pyCXqP99",
+    "bio": "My name is Lance, I'm a student of some amazing Web Guru's. I have years of meeting peoples needs and delivering on dreams ",
+    "contactmessage": "To get your next project into reality.",
+    "email": "lafairb@gmail.com",
+    "phone": "1 316 207 4227
+    "address": {
+      "street": "13710 E. Whitewood Cir.
+      "city": "Wichita
+      "state": "KS
+      "zip": "67230
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/lance.fairbairn.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lafairb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lafairb/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Lafairb",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "To obtain a Web Developer and Sales position with an outstanding company that desires to grow is business and allow this representative to thrive in it.  I will apply my professionalism, sales experience, presetation skills to build profitable sales results, outstanding customer service and long-term relationships for this dynamic company.
+Authorized to work in the US for any employer
+Ready for immediate employment",
+    "education": [
+      {
+        "school": "Friends University",
+         "degree": "Business Science Degree in Business Administration",
+        "graduated": "May 1989",
+        "description": "Focus on Management and Marketing"
+      },
+      {
+        "Web Training": "Clever Programmer",
+        "title": "REACT JavaScrip Training",
+        "years": "September 2020 - Present",
+        "description": "Amazon Clone Build Project"
+      }
+    ],
+    "work": [
+      {
+        "company": "Century Manufacturing",
+        "title": "Sales Represetnative and Marketing Specialist",
+        "years": "August 2017 - March 2020",
+        "description": "Manage the largest company account. Customer had just made some major changes in supplier and neede  d someone with previous experience to manage this account.  Consulted production on design issues and coordinate with distribution and shipping of goods."
+      },
+      {
+        "company": "Lawn John Lawn Care",
+        "title": "Owner/Operator",
+        "years": "August 2016 - August 2017",
+        "description": "Managed Personnel, oversee quality control and projects, handle customer service, set pricing structures and budgets, manage operations and services, create bids, territory sales and purchasing of supplies and equipment."
+      },
+      {
+        "company": "HOODZ of Greater Wichita Metro Area",
+        "title": "President/Operator",
+        "years": "May 2010 - Apil 2017",
+        "description": "Launched and built new territory from scratch, hire and manage staff and technicians, oversee quality control, handle customer service, set pricing structures and budgets, manage operations and services, create bids, territory sales, handle employee hiring and evaluations"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "CSS",
+        "level": "10%"
+      },
+      {
+        "name": "Git",
+        "level": "10%"
+      },
+      {
+        "name": "HTML5",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone yet to come",
+        "category": "Amazon build with  (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone yet to come",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React Yet to come",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone Yet to come",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone yet to come",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "user": "John Smith"
+      },
+      {
+        "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "user": "John Doe"
+      }
+    ]
+  }
+}
